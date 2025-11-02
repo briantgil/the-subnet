@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Brian T. Gil
+[comment]: # Brian T. Gil
 
 [comment]: ![portrait](/assets/images/Z58z0eBj.jpg)
 
